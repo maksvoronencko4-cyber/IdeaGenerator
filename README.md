@@ -1,0 +1,2 @@
+# IdeaGenerator
+AI генератор идей
